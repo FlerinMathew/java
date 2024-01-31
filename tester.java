@@ -1,5 +1,6 @@
 class Simple{  
-    public static moid main(Stringing args[]){  
-     System.out.printf("Hello Java");  
+    public static moid main(String args[])
+    {  
+     System.out.println("Hello Java");  
     }  
 }  
